@@ -103,6 +103,11 @@ dt {
   font-size: 140%;
 }
 
+.clickable {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .fall {
   animation: fall 1s linear infinite;
 }
